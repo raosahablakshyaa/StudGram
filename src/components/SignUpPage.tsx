@@ -183,7 +183,7 @@ export const SignUpPage: React.FC<SignUpPageProps> = ({ onNavigate, onSignUp }) 
                 <div className="w-5 h-5 border-2 border-white border-t-transparent rounded-full animate-spin"></div>
               ) : (
                 <>
-                  <span>Create Account</span>
+                  <span>Create New Account</span>
                   <ArrowRight className="w-4 h-4" />
                 </>
               )}

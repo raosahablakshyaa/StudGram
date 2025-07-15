@@ -1,3 +1,8 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* If not using Tailwind, replace with equivalent CSS or remove these lines */
+/* Example: Reset and utility styles */
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+
+/* Add your custom styles below */

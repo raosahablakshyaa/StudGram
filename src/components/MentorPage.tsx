@@ -72,7 +72,7 @@ export const MentorPage: React.FC = () => {
     },
     {
       id: '3',
-      name: 'Dr. Emily Rodriguez',
+      name: 'Dr. Rohit godara',
       avatar: '',
       title: 'Mathematics Specialist',
       university: 'Harvard',
@@ -91,7 +91,7 @@ export const MentorPage: React.FC = () => {
     },
     {
       id: '4',
-      name: 'Dr. James Wilson',
+      name: 'Dr. Lakshya yadav',
       avatar: '',
       title: 'Chemistry Expert',
       university: 'Caltech',
