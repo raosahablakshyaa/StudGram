@@ -21,7 +21,7 @@ const Login = () => {
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-pink-50 to-purple-100 flex items-center justify-center px-4 sm:px-6 py-12">
       <div className="bg-white bg-opacity-90 backdrop-blur-md shadow-lg rounded-2xl px-6 sm:px-10 py-10 w-full max-w-sm sm:max-w-md border border-gray-200 transition-all">
         <h2 className="text-2xl sm:text-3xl font-bold text-center text-sky-600 mb-6 sm:mb-8 drop-shadow-sm">
-          Welcome Back to <span className="text-purple-500">ADFLUENCE</span>
+          Welcome Back to <span className="text-purple-500">StudGram</span>
         </h2>
 
         <form onSubmit={handleLogin} className="space-y-5 sm:space-y-6">

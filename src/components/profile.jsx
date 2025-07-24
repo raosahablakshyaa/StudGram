@@ -5,12 +5,12 @@ import { Menu, X } from 'lucide-react';
 const Profile = () => {
   const [isEditing, setIsEditing] = useState(false);
   const [profile, setProfile] = useState({
-    name: 'Anurag Pandey',
-    username: '@anuragpandey',
-    email: 'anurag.pandey@example.com',
+    name: 'lakshyayadav',
+    username: '@raosahab.lakshya',
+    email: 'lakshyayadav314@example.com',
     bio: 'Nature enthusiast and travel photographer. Sharing moments that inspire wanderlust and appreciation for our beautiful world.',
     location: 'Sonipat ,Haryana',
-    website: 'anurag.photo',
+    website: 'Lakshya.photo',
     joinDate: 'March 2023',
     avatar: 'https://res.cloudinary.com/dj4xzdd0h/image/upload/v1751784793/6_photo_sivwr9.avif'
   });
