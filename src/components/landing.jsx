@@ -6,7 +6,7 @@ const Landing = () => {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-blue-100 via-purple-100 to-pink-100 text-gray-800 px-4 py-12 sm:py-16 md:py-20">
       <div className="w-full max-w-4xl mx-auto text-center bg-white bg-opacity-70 backdrop-blur-lg p-6 sm:p-10 rounded-3xl shadow-xl border border-gray-200">
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold mb-6 text-sky-500 leading-tight">
-          ADFLUENCE
+          Stugram
         </h1>
         <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-5 text-gray-800">
           Connect, Share & Grow with{' '}

@@ -249,7 +249,7 @@ const Home = () => {
         ) {
           resolve(`To increase followers on Instagram genuinely and sustainably, you need a mix of smart content strategy, consistency, and engagement. Here's a full breakdown:`);
         } else {
-          resolve('This is a predefined response from Adfluence AI.');
+          resolve('This is a predefined response from Studgram AI.');
         }
       }, 1000);
     });
@@ -301,7 +301,7 @@ const Home = () => {
     >
       {}
       <h1 className="text-xl md:text-2xl font-bold bg-gradient-to-r from-sky-500 to-purple-600 bg-clip-text text-transparent animate-pulse">
-        Adfluence
+        Studgram
       </h1>
 
       {}
@@ -399,7 +399,7 @@ const Home = () => {
         </div>
         <div className="relative z-10">
           <h2 className="text-5xl font-bold mb-4 animate-fadeInUp">
-            Welcome to Adfluence
+            Welcome to Studgram
           </h2>
           <p className="text-lg animate-fadeInUp delay-200 opacity-90">
             Explore curated and live photos of travel, sports, and nature 🌍✨
@@ -595,7 +595,7 @@ const Home = () => {
         }`}
       >
         <div className="animate-pulse">
-          © 2025 Adfluence. Connect. Inspire. Grow. ✨
+          © 2025 Studgram. Connect. Inspire. Grow. ✨
         </div>
       </footer>
 
