@@ -9,7 +9,7 @@ const Login = () => {
 
   const handleLogin = (e) => {
     e.preventDefault();
-    if (email === 'anurag@gmail.com' && password === 'anuragpandey@123') {
+    if (email === 'lakshyayadav314@gmail.com' && password === 'Lakshya@123#') {
       alert('Logged in successfully');
       navigate('/home');
     } else {
